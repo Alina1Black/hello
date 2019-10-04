@@ -1,3 +1,3 @@
 # hello
 My First GitHub Project
-\nMy name is Alina.
+My name is Alina.
